@@ -1,2 +1,3 @@
 - [[The Odin Project]]
-- 
+- [[Fullstack Open]]
+- [[OSSU  - Computer Science]]

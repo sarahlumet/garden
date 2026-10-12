@@ -1,0 +1,3 @@
+- [Core CS](https://github.com/ossu/computer-science#core-cs) assumes the student has already taken [high school math](https://ossu.dev/precollege-math), including algebra, geometry, and pre-calculus.
+- [Advanced CS](https://github.com/ossu/computer-science#advanced-cs) assumes the student has already taken the entirety of Core CS and is knowledgeable enough now to decide which electives to take.
+- Note that [Advanced systems](https://github.com/ossu/computer-science#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).

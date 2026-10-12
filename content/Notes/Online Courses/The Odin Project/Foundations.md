@@ -6,3 +6,4 @@
 - [[06 Flexbox]]
 - [[07 JavaScript Basics]]
 - [[08 Conclusion]]
+Next: [[Full Stack JavaScript]]
