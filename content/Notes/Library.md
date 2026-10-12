@@ -1,0 +1,10 @@
+- To read:
+	- [[Columbia College - Core Curriculum]]
+	- TODO:
+		- St. John's University - Great Books Reading List
+		- The Story of Art
+		- Art in Theory 1
+		- Art in Theory 2
+		- Art in Theory 3
+- To watch:
+	- 

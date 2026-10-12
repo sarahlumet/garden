@@ -1,0 +1,2 @@
+- GOAL: Write 100 short stories
+- 

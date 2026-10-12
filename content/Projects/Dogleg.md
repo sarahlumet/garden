@@ -1,0 +1,3 @@
+- Goal: Complete a first draft of a 75,000 word novel
+- [[Outline]]
+- 
